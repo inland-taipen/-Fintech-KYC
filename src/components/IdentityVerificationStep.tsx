@@ -7,7 +7,6 @@ export const IdentityVerificationStep = () => {
   const {
     register,
     formState: { errors },
-    trigger,
     watch,
     setError,
     clearErrors,
